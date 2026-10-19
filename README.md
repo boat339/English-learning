@@ -1,6 +1,6 @@
 # English Learning · 潮流英语学习平台
 
-一个无需构建的静态英语学习项目，使用 HTML、CSS 和原生 JavaScript。主仓库为 **boat339/English-learning**；`English-learning-` 已作为历史入口保留。
+一个无需构建的静态英语学习项目，使用 HTML、CSS 和原生 JavaScript。唯一项目入口为 **[boat339/English-learning](https://github.com/boat339/English-learning)**。
 
 ## 功能
 
